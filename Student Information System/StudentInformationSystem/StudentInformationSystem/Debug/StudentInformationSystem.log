@@ -1,0 +1,4 @@
+﻿  StudentInformationSystem.cpp
+D:\Casper\Osmanın Dosyaları\USB Flash Yedek\Diğer Dosyalar ve Projeler\StudentInformationSystem\StudentInformationSystem\StudentInformationSystem.cpp(39,13): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+D:\Casper\Osmanın Dosyaları\USB Flash Yedek\Diğer Dosyalar ve Projeler\StudentInformationSystem\StudentInformationSystem\StudentInformationSystem.cpp(419,57): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  StudentInformationSystem.vcxproj -> D:\Casper\Osmanın Dosyaları\USB Flash Yedek\Diğer Dosyalar ve Projeler\StudentInformationSystem\Debug\StudentInformationSystem.exe

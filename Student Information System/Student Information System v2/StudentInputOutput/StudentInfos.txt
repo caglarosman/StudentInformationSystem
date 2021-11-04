@@ -1,0 +1,5 @@
+  Student ID        Name Surname                  Taken Courses       M - F - A - L Grades       Address                       Mobile Phone   e-Mail Address           
+  ------------      -------------------------     -------------       ----------------------     -------------------------     ------------   ----------------------   
+- 152120181033      Osman Caglar                  CENG101             77  / 68  / 71.6 / DD      Istanbul/Gaziosmanpasa        05395486343    cglrr.osman@gmail.com    
+- 152120181040      Kaan Ersoy                    CENG101             78  / 68  / 72   / DD      Istanbul/Arnavutkoy           05345866440    kaan.ersoy@gmail.com     
+- 152120181022      Murat Caglar                  CENG107             77  / 15  / 39.8 / FF      Istanbul/Esentepe             05380127138    milimo_murat@gmail.com   
